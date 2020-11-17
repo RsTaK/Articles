@@ -20,7 +20,7 @@ Throwing out a clear light, In this article, We'll try to clear out the skeptici
 
 # There's even a Differece ?
 
-<p style="text-align: left; width: 100%;">
+<p style="text-align: left;">
 
 **Yes**. Although they work together to harness the power of Data, they differ from each other in terms of their Job roles.
 
@@ -47,22 +47,24 @@ In terms of Data Jobs, Ben played the **role of Data Architect**, Jonny played t
 
 
 * **Data Architect**
-<img src="images\DA.png" alt="drawing" width="200" align="left"/>
+<img src="images\DA.png" alt="drawing" width="200" style="float: right"/>
+
 A Data Architect provides the blueprint for Data Management Systems. He's responsible for understanding business objective and existing data infrastructure, and then work out a plan for integrating, centralizing and maintaining all the data, shaping the data architecture or pipelines as per the requirements and standards.
 <br>
 <br>
 
 * **Data Engineer**
-<img src="images\DE.png" alt="drawing" width="200" align="left"/>
+<img src="images\DE.png" alt="drawing" width="200" style="float: right"/>
 
 A Data Engineer develop, construct, test and maintain architectures. As a hard core engineer, they work along with a Data Architect to develop such high performance data pipelines and work on Data reliability, efficiency, and quality. In short, He deals with gathering the data and process them.
 <br>
 <br>
 
 * **Data Scientist**
-<img src="images\DS.png" alt="drawing" width="200" align="left"/>
+<img src="images\DS.png" alt="drawing" width="200" style="float: right"/>
+
 A Data Scientist uses the pipelines or architectures designed by Data Engineer and tries to extract valuable insights from the data. He's more mathematically inclined, usually trained in areas like Machine Learning, Statistics and some hardcore domains like 
-Text Analytics(NLP), Computer Vision(CV) etc
+Text Analytics(NLP), Computer Vision(CV) etc.
 
 </p>
 
