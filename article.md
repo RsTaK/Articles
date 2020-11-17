@@ -134,5 +134,5 @@ Some of the other important skills he possesses are :
 
 Given above is an interpretation of what we have observed while researching at the time of writing this article. We tried to explore some well known but misunderstood Job Profiles in the field of Data.
 
-Restating, Data is everywhere. Every company wants a guy who can bring the potential out of these Data that can change the world we are looking at right now. Pursue the field that you love and have a passion for, irrespective of its scope and salary, because, in the end, it'll bring immense pleasure and satisfaction. And if you're good with your field, then there will be always demand and you'll grow. 
+Restating, Data is everywhere. Every company wants a guy who can bring the potential out of these Data that can change the world we are looking at right now. Pursue the field that you love and have a passion for, irrespective of its scope and salary, because, in the end, it'll bring immense pleasure and satisfaction. And if you're good with your field, then there will be demand and you'll grow. 
 </p>
