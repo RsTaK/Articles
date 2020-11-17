@@ -5,7 +5,8 @@
 
 
 <img src="images\Data-Engineer_Graphic.png" alt="drawing"/>
-###### Data Engineers are the Bridge” by Jennifer Shalamanov
+
+###### "Data Engineers are the Bridge" by Jennifer Shalamanov
 ---
 <p style="text-align: left; width: 100%;" >
 With the boom of Internet, People have started producing more and more data. Companies have understood the importance of data and possibile opportunities it brings to the company. 
@@ -46,19 +47,19 @@ In terms of Data Jobs, Ben played the **role of Data Architect**, Jonny played t
 
 
 * **Data Architect**
-<img src="images\DA.png" alt="drawing" width="200" align="right"/>
+<img src="images\DA.png" alt="drawing" width="200" align="left"/>
 A Data Architect provides the blueprint for Data Management Systems. He's responsible for understanding business objective and existing data infrastructure, and then work out a plan for integrating, centralizing and maintaining all the data, shaping the data architecture or pipelines as per the requirements and standards.
 
 <br>
 
 * **Data Engineer**
-<img src="images\DE.png" alt="drawing" width="200" align="right"/>
+<img src="images\DE.png" alt="drawing" width="200" align="left"/>
 A Data Engineer develop, construct, test and maintain architectures. As a hard core engineer, they work along with a Data Architect to develop such high performance data pipelines and work on Data reliability, efficiency, and quality. In short, He deals with gathering the data and process them.
 
 <br>
 
 * **Data Scientist**
-<img src="images\DS.png" alt="drawing" width="200" align="right"/>
+<img src="images\DS.png" alt="drawing" width="200" align="left"/>
 A Data Scientist uses the pipelines or architectures designed by Data Engineer and tries to extract valuable insights from the data. He's more mathematically inclined, usually trained in areas like Machine Learning, Statistics and some hardcore domains like 
 Text Analytics(NLP), Computer Vision(CV) etc
 
@@ -68,7 +69,7 @@ Text Analytics(NLP), Computer Vision(CV) etc
 
 <p style="text-align: left;">
 
-![apple](images\chart.png)
+<img src="images\chart.png" alt="drawing"/>
 
 A **Data Architect** plans a stragety how to solve a business problem. He may or may not have technical background but he possess immense amount of In-depth knowledge of Database architecture. He's also good with Spreadsheets, BI tools and Extraction Transformation and Load (ETL)
 
