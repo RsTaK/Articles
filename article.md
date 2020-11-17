@@ -32,21 +32,23 @@ In terms of Data Jobs, Ben played the **role of Data Architect**, Jonny played t
 # So, How these subfields are different?
 
 * **Data Architect**
-<img src="images\DA.png" alt="drawing" width="200" style="float: right"/>
+<img src="images\DA.png" alt="drawing" width="200" align="right"/>
 A Data Architect provides the blueprint for Data Management Systems. He's responsible for understanding business objective and existing data infrastructure, and then work out a plan for integrating, centralizing and maintaining all the data, shaping the data architecture or pipelines as per the requirements and standards.
 
 <br>
 
 * **Data Engineer**
-<img src="images\DE.png" alt="drawing" width="200" style="float: right"/>
+<img src="images\DE.png" alt="drawing" width="200" align="right"/>
 A Data Engineer develop, construct, test and maintain architectures. As a hard core engineer, they work along with a Data Architect to develop such high performance data pipelines and work on Data reliability, efficiency, and quality. In short, He deals with gathering the data and process them.
 
 <br>
 
 * **Data Scientist**
-<img src="images\DS.png" alt="drawing" width="200" style="float: right"/>
+
+<img src="images\DS.png" alt="drawing" width="200" align="right"/>
 A Data Scientist uses the pipelines or architectures designed by Data Engineer and tries to extract valuable insights from the data. He's more mathematically inclined, usually trained in areas like Machine Learning, Statistics and some hardcore domains like 
 Text Analytics(NLP), Computer Vision(CV) etc
+
 
 # What are the skills needed for these roles?
 
@@ -68,7 +70,7 @@ Some of the other important skills he possess are :
 
 ![](images\da-salary.png)
 
-#####[Click here to know more](https://datacatchup.com/top-10-skills-for-data-architects/) 
+##### [Click here to know more](https://datacatchup.com/top-10-skills-for-data-architects/) 
 
 A **Data Engineer** develops large and manages large databases and create data pipelines.  So, He generally comes from a technical background and usually has a deep knowledge and expertise in one or more different database softwares like SQL, NoSQl.
 
@@ -84,7 +86,7 @@ Some of the other important skills he possess are :
 
 ![](images\de-salary.png)
 
-#####[Click here to know more](https://www.springboard.com/library/data-engineering/skills/) 
+##### [Click here to know more](https://www.springboard.com/library/data-engineering/skills/) 
 
 A **Data Scientist** extracts usefull insights from data. He's an excellent StoryTeller and can use various data visualization techniques for its good. Well versed in Maths and Statistics, He knows the concepts of predictive modeling and can find out a gold nugget from the sack of Data. 
 
@@ -102,7 +104,7 @@ Some of the other important skills he possess are :
 
 ![](images\ds-slary.png)
 
-#####[Click here to know more](https://www.edureka.co/blog/how-to-become-a-data-scientist/) 
+##### [Click here to know more](https://www.edureka.co/blog/how-to-become-a-data-scientist/) 
 
 # Closing Remark
 
