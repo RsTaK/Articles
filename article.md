@@ -49,13 +49,14 @@ In terms of Data Jobs, Ben played the **role of Data Architect**, Jonny played t
 * **Data Architect**
 <img src="images\DA.png" alt="drawing" width="200" align="left"/>
 A Data Architect provides the blueprint for Data Management Systems. He's responsible for understanding business objective and existing data infrastructure, and then work out a plan for integrating, centralizing and maintaining all the data, shaping the data architecture or pipelines as per the requirements and standards.
-
+<br>
 <br>
 
 * **Data Engineer**
 <img src="images\DE.png" alt="drawing" width="200" align="left"/>
-A Data Engineer develop, construct, test and maintain architectures. As a hard core engineer, they work along with a Data Architect to develop such high performance data pipelines and work on Data reliability, efficiency, and quality. In short, He deals with gathering the data and process them.
 
+A Data Engineer develop, construct, test and maintain architectures. As a hard core engineer, they work along with a Data Architect to develop such high performance data pipelines and work on Data reliability, efficiency, and quality. In short, He deals with gathering the data and process them.
+<br>
 <br>
 
 * **Data Scientist**
