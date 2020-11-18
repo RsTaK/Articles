@@ -88,7 +88,7 @@ Some of the other important skills he possesses are :
 * Creative and Analytical Problem Solving
 * Ability to use a variety of Design/Visualization tools
 
-<img src="images\da-salary.png" alt="drawing"/>
+<img src="images\DA-salary.PNG" alt="drawing"/>
 
 ##### [Click here to know more](https://datacatchup.com/top-10-skills-for-data-architects/) 
 
@@ -104,7 +104,7 @@ Some of the other important skills he possesses are :
 * Python, Java, and Scala programming language
 * Understanding the basics of distributed systems
 
-<img src="images\de-salary.png" alt="drawing"/>
+<img src="images\DE-salary.PNG" alt="drawing"/>
 
 ##### [Click here to know more](https://www.springboard.com/library/data-engineering/skills/) 
 
@@ -122,7 +122,7 @@ Some of the other important skills he possesses are :
 * Tool Box(Hadoop, Spark, MS Excel)
 * Machine Learning and Advanced Machine Learning (Deep Learning)
 
-<img src="images\ds-slary.png" alt="drawing"/>
+<img src="images\ds-slary.PNG" alt="drawing"/>
 
 ##### [Click here to know more](https://www.edureka.co/blog/how-to-become-a-data-scientist/) 
 
