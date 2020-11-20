@@ -6,7 +6,7 @@
 
 <img src="images\Data-Engineer_Graphic.png" alt="drawing"/>
 
-###### "Data Engineers are the Bridge" by Jennifer Shalamanov
+###### ["Data Engineers are the Bridge" by Jennifer Shalamanov](https://blog.udacity.com/2020/07/what-to-expect-as-an-entry-level-data-engineer.html)
 ---
 <p style="text-align: left; width: 100%;" >
 With the boom of the Internet, People have started producing more and more data. Companies have understood the importance of data and the possible opportunities it brings to the company. 
