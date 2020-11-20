@@ -1,6 +1,6 @@
 # Data Science vs. Data Engineering vs. Data Architecture?
 
-###### by Rahul Gulia
+###### by [Rahul Gulia](https://rstak.github.io)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rahulgulia/) &nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/RsTaK)
 
 
@@ -40,6 +40,10 @@ Now they want to use the power of the machine to further improve its commercial 
 
 In terms of Data Jobs, Ben played the **role of Data Architect**, Jonny played the **role of Data Engineer** and Cris was **the Data Scientist**.
 
+<img src="images\chart.png" alt="drawing"/>
+
+##### <center>[Credits : Arun Elangovan](https://medium.com/datadriveninvestor/are-you-looking-for-a-career-in-data-science-lets-explore-what-it-holds-for-you-82e364df7b12)</center>
+
 </p>
 
 # So, How these subfields are different?
@@ -50,29 +54,6 @@ In terms of Data Jobs, Ben played the **role of Data Architect**, Jonny played t
 <img src="images\DA.png" alt="drawing" width="200" style="float: right"/>
 
 A Data Architect provides the blueprint for Data Management Systems. He's responsible for understanding the business objective and existing data infrastructure, and then work out a plan for integrating, centralizing, and maintaining all the data, shaping the data architecture or pipelines as per the requirements and standards.
-<br>
-<br>
-
-* **Data Engineer**
-<img src="images\DE.png" alt="drawing" width="200" style="float: right"/>
-
-A Data Engineer develop, construct, test, and maintain architectures. As a hardcore engineer, they work along with a Data Architect to develop such high-performance data pipelines and work on Data reliability, efficiency, and quality. In short, He deals with gathering the data and process them.
-<br>
-<br>
-
-* **Data Scientist**
-<img src="images\DS.png" alt="drawing" width="200" style="float: right"/>
-
-A Data Scientist uses the pipelines or architectures designed by Data Engineer and tries to extract valuable insights from the data. He's more mathematically inclined, usually trained in areas like Machine Learning, Statistics, and some hardcore domains like 
-Text Analytics(NLP), Computer Vision(CV) etc.
-
-</p>
-
-# What are the skills needed for these roles?
-
-<p style="text-align: left;">
-
-<img src="images\chart.png" alt="drawing"/>
 
 A **Data Architect** plans a strategy on how to solve a business problem. He may or may not have a technical background but he possesses an immense amount of In-depth knowledge of Database architecture. He's also good with Spreadsheets, BI tools, and Extraction Transformation and Load (ETL)
 
@@ -90,7 +71,16 @@ Some of the other important skills he possesses are :
 
 <img src="images\DA-salary.PNG" alt="drawing"/>
 
+##### <center>[Credits : Glassdoor](https://www.glassdoor.co.in/Salaries/data-architect-salary-SRCH_KO0,14.htm)</center>
+
 ##### [Click here to know more](https://datacatchup.com/top-10-skills-for-data-architects/) 
+<br>
+<br>
+
+* **Data Engineer**
+<img src="images\DE.png" alt="drawing" width="200" style="float: right"/>
+
+A Data Engineer develop, construct, test, and maintain architectures. As a hardcore engineer, they work along with a Data Architect to develop such high-performance data pipelines and work on Data reliability, efficiency, and quality. In short, He deals with gathering the data and process them.
 
 A **Data Engineer** develops large and manages large databases and create data pipelines.  So, He generally comes from a technical background and usually has a deep knowledge and expertise in one or more different database software like SQL, NoSQL.
 
@@ -106,7 +96,18 @@ Some of the other important skills he possesses are :
 
 <img src="images\DE-salary.PNG" alt="drawing"/>
 
+##### <center>[Credits : Glassdoor](https://www.glassdoor.co.in/Salaries/data-engineer-salary-SRCH_KO0,13.htm)</center>
+
 ##### [Click here to know more](https://www.springboard.com/library/data-engineering/skills/) 
+<br>
+<br>
+
+* **Data Scientist**
+<img src="images\DS.png" alt="drawing" width="200" style="float: right"/>
+
+A Data Scientist uses the pipelines or architectures designed by Data Engineer and tries to extract valuable insights from the data. He's more mathematically inclined, usually trained in areas like Machine Learning, Statistics, and some hardcore domains like 
+Text Analytics(NLP), Computer Vision(CV) etc.
+
 
 A **Data Scientist** extracts useful insights from data. He's an excellent StoryTeller and can use various data visualization techniques for its good. Well versed in Maths and Statistics, He knows the concepts of predictive modeling and can find out a gold nugget from the sack of Data. 
 
@@ -124,9 +125,9 @@ Some of the other important skills he possesses are :
 
 <img src="images\ds-slary.PNG" alt="drawing"/>
 
-##### [Click here to know more](https://www.edureka.co/blog/how-to-become-a-data-scientist/) 
+##### <center>[Credits : Glassdoor](https://www.glassdoor.co.in/Salaries/data-scientist-salary-SRCH_KO0,14.htm)</center>
 
-</p>
+##### [Click here to know more](https://www.edureka.co/blog/how-to-become-a-data-scientist/) 
 
 # Closing Remark
 
