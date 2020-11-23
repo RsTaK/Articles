@@ -9,13 +9,13 @@
 ###### ["Data Engineers are the Bridge" by Jennifer Shalamanov](https://blog.udacity.com/2020/07/what-to-expect-as-an-entry-level-data-engineer.html)
 ---
 <p style="text-align: left; width: 100%;" >
-With the boom of the Internet, People have started producing more and more data. Companies have understood the importance of data and the possible opportunities it brings to the company. 
+With the boom of the internet, people have started producing more and more data. Companies have understood the importance of data and the possible opportunities it brings to the company. 
 
 In 2011, Harvard Business labeled the profession **Data Scientists** as "**The sexiest job of the 21st century**."
  
 Data is everywhere. Everyone wants to get involved with this power. However, the fruits of this field are so **unripe** that people tend to misunderstand Data jobs, believing people involved with Data jobs as some magicians who take Data and could potentially implement their product or service.
 
-Throwing out a clear light, In this article, We'll try to clear out the skepticism built around Data jobs, discussing in detail the differences between **Data Scientist**, **Data Engineer** and **Data Architecture**.
+In this article, We'll try to clear the skepticism built around data jobs, discussing in detail the differences between **Data Scientist**, **Data Engineer** and **Data Architect**.
 </p>
 
 # There's even a Difference?
@@ -30,7 +30,7 @@ Imagine three people: Ben, Jonny, Cris.
 
 So, Ben comes out with a plan to create a machine where one can put up a raw Apple and a processed Jam would come out from another end.
 
-He contacts his friend Jonny. And together they work and develop a machine based on Ben's idea. 
+He contacts his friend Jonny. Together they work and develop a machine based on Ben's idea. 
 
 Now they want to use the power of the machine to further improve its commercial use. They contact Cris. Now Cris uses the processed Jam given by machine to create Jam Sandwich which he sells out and everyone gets the profit. 
 
@@ -38,7 +38,7 @@ Now they want to use the power of the machine to further improve its commercial 
 
 <br>
 
-In terms of Data Jobs, Ben played the **role of Data Architect**, Jonny played the **role of Data Engineer** and Cris was **the Data Scientist**.
+In terms of data jobs, Ben played the **role of Data Architect**, Jonny played the **role of Data Engineer** and Cris was **the Data Scientist**.
 
 <img src="images\chart.png" alt="drawing"/>
 
