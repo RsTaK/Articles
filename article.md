@@ -28,11 +28,11 @@ Let's take a small example to clear this out.
 
 Imagine three people: Ben, Jonny, Cris.
 
-So, Ben comes out with a plan to create a machine where one can put up a raw Apple and a processed Jam would come out from another end.
+So, Ben comes out with a plan to create a machine where one can put up a raw apple and a processed jam would come out from another end.
 
 He contacts his friend Jonny. Together they work and develop a machine based on Ben's idea. 
 
-Now they want to use the power of the machine to further improve its commercial use. They contact Cris. Now Cris uses the processed Jam given by machine to create Jam Sandwich which he sells out and everyone gets the profit. 
+Now they want to use the power of the machine to further improve its commercial use. They contact Cris. Now Cris uses the processed jam given by machine to create jam sandwich which he sells out and everyone gets the profit. 
 
 <img src="images\apple.png" alt="drawing"/>
 
@@ -133,7 +133,7 @@ Some of the other important skills he possesses are :
 
 <p style="text-align: left;">
 
-Given above is an interpretation of what we have observed while researching at the time of writing this article. We tried to explore some well known but misunderstood job profiles in the field of Data.
+Given above is an interpretation of what we have observed while researching at the time of writing this article. We tried to explore some well known but misunderstood job profiles in the field of data.
 
 Restating, data is everywhere. Every company wants a guy who can bring the potential out of these data that can change the world we are looking at right now. Pursue the field that you love and have a passion for, irrespective of its scope and salary, because, in the end, it'll bring immense pleasure and satisfaction. And if you're good with your field, then there will be demand and you'll grow. 
 </p>
