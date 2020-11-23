@@ -13,7 +13,7 @@ With the boom of the internet, people have started producing more and more data.
 
 In 2011, Harvard Business labeled the profession **Data Scientists** as "**The sexiest job of the 21st century**."
  
-Data is everywhere. Everyone wants to get involved with this power. However, the fruits of this field are so **unripe** that people tend to misunderstand Data jobs, believing people involved with Data jobs as some magicians who take Data and could potentially implement their product or service.
+Data is everywhere. Everyone wants to get involved with this power. However, the fruits of this field are so **unripe** that people tend to misunderstand data jobs, believing people involved with data jobs as some magicians who take data and could potentially implement their product or service.
 
 In this article, We'll try to clear the skepticism built around data jobs, discussing in detail the differences between **Data Scientist**, **Data Engineer** and **Data Architect**.
 </p>
