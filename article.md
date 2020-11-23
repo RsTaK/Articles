@@ -15,7 +15,7 @@ In 2011, Harvard Business labeled the profession **Data Scientists** as "**The s
  
 Data is everywhere. Everyone wants to get involved with this power. However, the fruits of this field are so **unripe** that people tend to misunderstand data jobs, believing people involved with data jobs as some magicians who take data and could potentially implement their product or service.
 
-In this article, We'll try to clear the skepticism built around data jobs, discussing in detail the differences between **Data Scientist**, **Data Engineer** and **Data Architect**.
+In this article, we'll try to clear the skepticism built around data jobs, discussing in detail the differences between **Data Scientist**, **Data Engineer** and **Data Architect**.
 </p>
 
 # There's even a Difference?
@@ -53,9 +53,9 @@ In terms of data jobs, Ben played the **role of Data Architect**, Jonny played t
 * **Data Architect**
 <img src="images\DA.png" alt="drawing" width="200" style="float: right"/>
 
-A **Data Architect** provides the blueprint for Data Management Systems. He's responsible for understanding the business objective and existing data infrastructure, and then work out a plan for integrating, centralizing, and maintaining all the data, shaping the data architecture or pipelines as per the requirements and standards.
+A **Data Architect** provides the blueprint for data management systems. He's responsible for understanding the business objective and existing data infrastructure, and then work out a plan for integrating, centralizing, and maintaining all the data, shaping the data architecture or pipelines as per the requirements and standards.
 
-A **Data Architect** plans a strategy on how to solve a business problem. He may or may not have a technical background but he possesses an immense amount of in-depth knowledge of Database architecture. He's also good with Spreadsheets, BI tools, and Extraction Transformation and Load (ETL)
+A **Data Architect** plans a strategy on how to solve a business problem. He may or may not have a technical background but he possesses an immense amount of in-depth knowledge of database architecture. He's also good with Spreadsheets, BI tools, and Extraction Transformation and Load (ETL)
 
 Some of the other important skills he possesses are :
 
@@ -80,7 +80,7 @@ Some of the other important skills he possesses are :
 * **Data Engineer**
 <img src="images\DE.png" alt="drawing" width="200" style="float: right"/>
 
-A **Data Engineer** develop, construct, test, and maintain architectures. As a hardcore engineer, they work along with a **Data Architect** to develop such high-performance data pipelines and work on Data reliability, efficiency, and quality. In short, he deals with gathering the data and process them.
+A **Data Engineer** develop, construct, test, and maintain architectures. As a hardcore engineer, they work along with a **Data Architect** to develop such high-performance data pipelines and work on data reliability, efficiency, and quality. In short, he deals with gathering the data and process them.
 
 A **Data Engineer** develops large and manages large databases and create data pipelines.  So, he generally comes from a technical background and usually has a deep knowledge and expertise in one or more different database software like SQL, NoSQL.
 
@@ -105,7 +105,7 @@ Some of the other important skills he possesses are :
 * **Data Scientist**
 <img src="images\DS.png" alt="drawing" width="200" style="float: right"/>
 
-A **Data Scientist** uses the pipelines or architectures designed by **Data Engineer** and tries to extract valuable insights from the data. He's more mathematically inclined, usually trained in areas like Machine Learning, Statistics, and some hardcore domains like 
+A **Data Scientist** uses the pipelines or architectures designed by **Data Engineer** and tries to extract valuable insights from the data. He's more mathematically inclined, usually trained in areas like Machine learning, Statistics, and some hardcore domains like 
 Text Analytics(NLP), Computer Vision(CV) etc.
 
 
