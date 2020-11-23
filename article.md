@@ -22,7 +22,7 @@ In this article, We'll try to clear the skepticism built around data jobs, discu
 
 <p style="text-align: left;">
 
-**Yes**. Although they work together to harness the power of Data, they differ from each other in terms of their job roles.
+**Yes**. Although they work together to harness the power of data, they differ from each other in terms of their job roles.
 
 Let's take a small example to clear this out.
 
@@ -53,9 +53,9 @@ In terms of data jobs, Ben played the **role of Data Architect**, Jonny played t
 * **Data Architect**
 <img src="images\DA.png" alt="drawing" width="200" style="float: right"/>
 
-A Data Architect provides the blueprint for Data Management Systems. He's responsible for understanding the business objective and existing data infrastructure, and then work out a plan for integrating, centralizing, and maintaining all the data, shaping the data architecture or pipelines as per the requirements and standards.
+A **Data Architect** provides the blueprint for Data Management Systems. He's responsible for understanding the business objective and existing data infrastructure, and then work out a plan for integrating, centralizing, and maintaining all the data, shaping the data architecture or pipelines as per the requirements and standards.
 
-A **Data Architect** plans a strategy on how to solve a business problem. He may or may not have a technical background but he possesses an immense amount of In-depth knowledge of Database architecture. He's also good with Spreadsheets, BI tools, and Extraction Transformation and Load (ETL)
+A **Data Architect** plans a strategy on how to solve a business problem. He may or may not have a technical background but he possesses an immense amount of in-depth knowledge of Database architecture. He's also good with Spreadsheets, BI tools, and Extraction Transformation and Load (ETL)
 
 Some of the other important skills he possesses are :
 
@@ -80,9 +80,9 @@ Some of the other important skills he possesses are :
 * **Data Engineer**
 <img src="images\DE.png" alt="drawing" width="200" style="float: right"/>
 
-A Data Engineer develop, construct, test, and maintain architectures. As a hardcore engineer, they work along with a Data Architect to develop such high-performance data pipelines and work on Data reliability, efficiency, and quality. In short, He deals with gathering the data and process them.
+A **Data Engineer** develop, construct, test, and maintain architectures. As a hardcore engineer, they work along with a **Data Architect** to develop such high-performance data pipelines and work on Data reliability, efficiency, and quality. In short, he deals with gathering the data and process them.
 
-A **Data Engineer** develops large and manages large databases and create data pipelines.  So, He generally comes from a technical background and usually has a deep knowledge and expertise in one or more different database software like SQL, NoSQL.
+A **Data Engineer** develops large and manages large databases and create data pipelines.  So, he generally comes from a technical background and usually has a deep knowledge and expertise in one or more different database software like SQL, NoSQL.
 
 Some of the other important skills he possesses are :
 
@@ -105,11 +105,11 @@ Some of the other important skills he possesses are :
 * **Data Scientist**
 <img src="images\DS.png" alt="drawing" width="200" style="float: right"/>
 
-A Data Scientist uses the pipelines or architectures designed by Data Engineer and tries to extract valuable insights from the data. He's more mathematically inclined, usually trained in areas like Machine Learning, Statistics, and some hardcore domains like 
+A **Data Scientist** uses the pipelines or architectures designed by **Data Engineer** and tries to extract valuable insights from the data. He's more mathematically inclined, usually trained in areas like Machine Learning, Statistics, and some hardcore domains like 
 Text Analytics(NLP), Computer Vision(CV) etc.
 
 
-A **Data Scientist** extracts useful insights from data. He's an excellent StoryTeller and can use various data visualization techniques for its good. Well versed in Maths and Statistics, He knows the concepts of predictive modeling and can find out a gold nugget from the sack of Data. 
+A **Data Scientist** extracts useful insights from data. He's an excellent storyteller and can use various data visualization techniques for its good. Well versed in maths and statistics, He knows the concepts of predictive modeling and can find out a gold nugget from the sack of data. 
 
 Some of the other important skills he possesses are :
 
@@ -133,7 +133,7 @@ Some of the other important skills he possesses are :
 
 <p style="text-align: left;">
 
-Given above is an interpretation of what we have observed while researching at the time of writing this article. We tried to explore some well known but misunderstood Job Profiles in the field of Data.
+Given above is an interpretation of what we have observed while researching at the time of writing this article. We tried to explore some well known but misunderstood job profiles in the field of Data.
 
-Restating, Data is everywhere. Every company wants a guy who can bring the potential out of these Data that can change the world we are looking at right now. Pursue the field that you love and have a passion for, irrespective of its scope and salary, because, in the end, it'll bring immense pleasure and satisfaction. And if you're good with your field, then there will be demand and you'll grow. 
+Restating, data is everywhere. Every company wants a guy who can bring the potential out of these data that can change the world we are looking at right now. Pursue the field that you love and have a passion for, irrespective of its scope and salary, because, in the end, it'll bring immense pleasure and satisfaction. And if you're good with your field, then there will be demand and you'll grow. 
 </p>
